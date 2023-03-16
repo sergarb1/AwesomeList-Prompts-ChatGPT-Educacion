@@ -17,9 +17,7 @@ Una "Awesome list" (lista increible) sobre prompts para ChatGPT relacionados con
 
 <!-- description -->
 
-A one line description of the product or tool. See
-[awesome-firebase](https://github.com/jthegedus/awesome-firebase) for an
-example.
+En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com) útiles para distintos niveles educativos.
 
 </div>
 
@@ -56,7 +54,7 @@ example.
 
 ### <a name="cfgs-dam"></a>CFGS Desarrollo de Aplicaciones Multiplataforma
 
-- [Programación](https://github.com/sergarb1/cfgs/dam/prg/prompts.md)
+- [Programación](cfgs/dam/prg/prompts.md)
 
 
 <!-- END CONTENT -->
