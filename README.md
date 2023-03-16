@@ -1,9 +1,6 @@
 <div align="center">
 
 <!-- title -->
-
-<!--lint ignore no-dead-urls-->
-
 # Awesome List - Prompts ChatGPT para educación ![Logo](logo.png)
 
 <!-- description -->

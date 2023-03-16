@@ -2,13 +2,9 @@
 
 <!-- title -->
 
-<!--lint ignore no-dead-urls-->
-
-# Awesome List - Prompts ChatGPT para educación ![Logo](../../../logo.png)
-
-# Propmts del módulo "Programación" de los CFGS Desarrollo de Aplicaciones Multiplataforma y CFGS Desarrollo de Aplicaciones Web
-
+# Propmts del módulo "Programación" de los CFGS Desarrollo de Aplicaciones Multiplataforma y CFGS Desarrollo de Aplicaciones Web ![Logo](../../../logo.png)
 </div>
+
 ## Contenido
 - [Prompt 01 - Examen de Programación](#prompt01)
 
