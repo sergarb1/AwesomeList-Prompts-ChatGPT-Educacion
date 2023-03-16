@@ -26,7 +26,7 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 <!-- CONTENT -->
 
-## <a name="#eso"></a> ESO
+## ESO
 ### <a name="#eso4"></a> 4º ESO
 - [Economía 4º de la ESO](eso/cuarto/economia/prompts.md)
 
