@@ -1,6 +1,8 @@
 <div align="center">
 
-# Propmts del módulo "Montaje y Mantenimiento de Equipos" del CFGM Sistemas Microinformáticos y Redes
+# Propmts del módulo "Montaje y Mantenimiento de Equipos" del CFGM Sistemas Microinformáticos y Redes![Logo](../../../logo.png)
+
+</div>
 
 ## Contenido
 - [Prompt 01 - Examen de Montaje y Mantenimiento de Equipos](#prompt01)
