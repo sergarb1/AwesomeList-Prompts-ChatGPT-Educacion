@@ -8,6 +8,7 @@
 
 # Propmts del módulo "Programación" de los CFGS Desarrollo de Aplicaciones Multiplataforma y CFGS Desarrollo de Aplicaciones Web
 
+</div>
 ## Contenido
 - [Prompt 01 - Examen de Programación](#prompt01)
 
