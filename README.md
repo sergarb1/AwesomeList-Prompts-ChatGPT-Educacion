@@ -4,19 +4,14 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List - Prompts ChatGPT para educación [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-
-<!-- subtitle -->
-
-Una "Awesome list" (lista increible) sobre prompts para ChatGPT relacionados con la educación.
-<!-- image -->
+# Awesome List - Prompts ChatGPT para educación [![Awesome](https://awesome.re/badge.svg)]
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="logo.png" />
 </a>
 
 <!-- description -->
-
+Una "Awesome list" (lista increible) sobre prompts para ChatGPT relacionados con la educación.
 En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com) útiles para distintos niveles educativos.
 
 </div>
@@ -66,7 +61,6 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 - Sergi García Barea (https://github.com/sergarb1)
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
 
 ### Licencia
 
