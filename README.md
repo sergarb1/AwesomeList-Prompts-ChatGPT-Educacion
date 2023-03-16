@@ -37,18 +37,17 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 ## <a name="#eso"></a> ESO
 
-- [Apple](https://apple.com) - Apple as a placeholder.
+- [Aun no hay prompts](#none) - Puedes contribuir y mandarnos los tuyos!
 
 ## Bachillerato
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+- [Aun no hay prompts](#none) - Puedes contribuir y mandarnos los tuyos!
 
 ## <a name="cfgm"></a>Ciclos Formativos - Grado Medio
 
 ### <a name="cfgm-smr"></a>CFGM Sistemas Microinformáticos y Redes
 
-- [Montaje y Mantenimiento de Equipos](https://www.microsoft.com/) - Microsoft as an example.
-
+- [Montaje y Mantenimiento de Equipos](cfgm/smr/mme/prompts.md)
 
 ## <a name="cfgs"></a>Ciclos Formativos - Grado Medio
 
