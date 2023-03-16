@@ -11,13 +11,12 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 <!-- TOC -->
 
-## Contenidos
+## Niveles educativos
 
 - [ESO](#eso)
 - [Bachillerato](#bachillerato)
 - [Ciclos Formativos - Grado Medio](#cfgm)
     - [CFGM Sistemas Microinformaticos y Redes](#cfgm-smr)
-        - [Montaje y mantenimiento de equipos](#cfgm-smr-mme)
 - [Ciclos Formativos - Grado Superior](#cfgs)
     - [CFGS Desarrollo de Aplicaciones Multiplataforma](#cfgs-dam)
 - [Certificaciones Profesionales](#certificaciones)
