@@ -6,10 +6,6 @@
 
 # Awesome List - Prompts ChatGPT para educación ![Logo](logo.png)
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="logo.png" />
-</a>
-
 <!-- description -->
 Una "Awesome list" (lista increible) sobre prompts para ChatGPT relacionados con la educación.
 En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com) útiles para distintos niveles educativos.
