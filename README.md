@@ -26,11 +26,11 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 ## <a name="#eso"></a> ESO
 
-- [Aun no hay prompts](#none) - Puedes contribuir y mandarnos los tuyos!
+- [Economía 4º de la ESO](eso/cuarto/economia/prompts.md)
 
 ## Bachillerato
 
-- [Aun no hay prompts](#none) - Puedes contribuir y mandarnos los tuyos!
+- [Física y Química 1º Bachillerato](bachillerato/primero/fisicayquimica/prompts.md)
 
 ## <a name="cfgm"></a>Ciclos Formativos - Grado Medio
 
