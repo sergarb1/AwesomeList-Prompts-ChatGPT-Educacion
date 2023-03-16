@@ -12,7 +12,7 @@ Una "Awesome list" (lista increible) sobre prompts para ChatGPT relacionados con
 <!-- image -->
 
 <a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
+  <img src="logo.png" />
 </a>
 
 <!-- description -->
