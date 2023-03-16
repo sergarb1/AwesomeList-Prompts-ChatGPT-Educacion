@@ -4,7 +4,7 @@
 
 <!--lint ignore no-dead-urls-->
 
-# Awesome List - Prompts ChatGPT para educación [![Awesome](https://awesome.re/badge.svg)]
+# Awesome List - Prompts ChatGPT para educación ![Logo](logo.png)
 
 <a href="" target="_blank" rel="noopener noreferrer">
   <img src="logo.png" />
