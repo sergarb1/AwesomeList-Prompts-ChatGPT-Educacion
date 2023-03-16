@@ -27,6 +27,8 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
         - [Montaje y mantenimiento de equipos](#cfgm-smr-mme)
 - [Ciclos Formativos - Grado Superior](#cfgs)
     - [CFGS Desarrollo de Aplicaciones Multiplataforma](#cfgs-dam)
+- [Certificaciones Profesionales](#certificaciones)
+    - [Familia Informática](#certificaciones-informatica)
 
 <!-- CONTENT -->
 
@@ -49,6 +51,12 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 ### <a name="cfgs-dam"></a>CFGS Desarrollo de Aplicaciones Multiplataforma
 
 - [Programación](cfgs/dam/prg/prompts.md)
+
+## <a name="certificaciones"></a>Certificaciones Profesionales
+
+### <a name="certificaciones-informatica"></a>Familia de Informática
+- [AWS](certificaciones/informatica/aws/prompts.md)
+
 
 
 <!-- END CONTENT -->

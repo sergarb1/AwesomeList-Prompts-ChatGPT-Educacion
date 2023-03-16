@@ -1,5 +1,11 @@
 <div align="center">
 
+<!-- title -->
+
+<!--lint ignore no-dead-urls-->
+
+# Awesome List - Prompts ChatGPT para educación ![Logo](logo.png)
+
 # Propmts del módulo "Programación" de los CFGS Desarrollo de Aplicaciones Multiplataforma y CFGS Desarrollo de Aplicaciones Web
 
 ## Contenido
