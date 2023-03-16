@@ -1,3 +1,5 @@
+<div align="center">
+
 # Propmts del módulo "Montaje y Mantenimiento de Equipos" del CFGM Sistemas Microinformáticos y Redes
 
 ## Contenido
