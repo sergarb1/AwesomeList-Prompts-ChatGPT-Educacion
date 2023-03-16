@@ -14,9 +14,9 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 ## Niveles educativos
 
 - [ESO](#eso)
-    - [4º ESO](#-eso4)
+    - [4º ESO](#eso4)
 - [Bachillerato](#bachillerato)
-    - [1º Bachillerato](#-bachillerato1)
+    - [1º Bachillerato](#bachillerato1)
 - [Ciclos Formativos - Grado Medio](#cfgm)
     - [CFGM Sistemas Microinformaticos y Redes](#cfgm-smr)
 - [Ciclos Formativos - Grado Superior](#cfgs)
@@ -28,10 +28,12 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 ## ESO
 ### <a name="#eso4"></a> 4º ESO
+
 - [Economía 4º de la ESO](eso/cuarto/economia/prompts.md)
 
 ## Bachillerato
 ### <a name="#bachillerato1"></a> 1º Bachillerato
+
 - [Física y Química 1º Bachillerato](bachillerato/primero/fisicayquimica/prompts.md)
 
 ## <a name="cfgm"></a>Ciclos Formativos - Grado Medio
