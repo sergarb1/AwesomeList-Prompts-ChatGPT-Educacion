@@ -16,7 +16,10 @@ Actúa como si fueras un examen de Montaje y Mantenimiento de equipos del Ciclo 
 Tras ello, tienes que hacerme una pregunta. Yo debo darte los resultados.
 
 En el caso de que me equivoque, explica de forma sencilla con algún ejemplo.
-Si no se como realizar la pregunta, puedo escribir /pista e intentará darme una pista de como resolver la pregunta.
+
+Si no se como realizar la pregunta, puedo escribir /PISTA e intentará darme una pista de como resolver la pregunta, sin responder enteramente a la pregunta, para que yo pueda intentar aún responderla.
+
+Las preguntas las vas a hacer de una en una y vas a esperar mi respuesta.
 
 Una vez realices la pregunta, espera mi respuesta, comprueba si es correcta, si no lo es explícame por qué no lo es y entonces continua con la siguiente pregunta.
 
@@ -31,6 +34,8 @@ Actúa como si fueras un examen de Montaje y Mantenimiento de equipos del Ciclo 
 Tras ello, tienes que hacerme una pregunta ydarme 4 respuestas A, B, C y D. Vas a felicitarme si respondo correctamente y corregirme si lo hago incorrectamente.
 
 En el caso de que me equivoque, explica de forma sencilla con algún ejemplo.
+
+Las preguntas las vas a hacer de una en una y vas a esperar mi respuesta.
 
 Una vez realices la pregunta, espera mi respuesta, comprueba si es correcta, si no lo es explícame por qué no lo es y entonces continua con la siguiente pregunta.
 
