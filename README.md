@@ -1,15 +1,3 @@
-<head>
-  <style>
-    h1 {
-      color: red;
-    }
-    h2 {
-      color: blue;
-    }
-  </style>
-</head>
-
-
 <div align="center">
 
 <!-- title -->
@@ -61,26 +49,29 @@ example.
 
 ### <a name="cfgm-smr"></a>CFGM Sistemas Microinformáticos y Redes
 
-#### <a name="cfgm-smr-mme"></a>Montaje y mantenimiento de equipos
+- [Montaje y Mantenimiento de Equipos](https://www.microsoft.com/) - Microsoft as an example.
 
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
+
+## <a name="cfgs"></a>Ciclos Formativos - Grado Medio
+
+### <a name="cfgs-dam"></a>CFGS Desarrollo de Aplicaciones Multiplataforma
+
+- [Programación](https://github.com/sergarb1/cfgs/dam/prg/prompts.md)
 
 
 <!-- END CONTENT -->
 
-## Follow
+## Contribuciones
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
+¡Contribuciones de cualquier tipo son bienvenidas! Contacta con nosotros :)
 
-Who else should we be following!?
+### Autores que han contribuido
 
-## Contributing
-
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
+- Sergi García Barea (https://github.com/sergarb1)
 
 [Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
 
+### Licencia
 
-[def]: #cfgmsmr
+CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.
+
