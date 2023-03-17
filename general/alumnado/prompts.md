@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-# Prompts generales para alumnado![Logo](../../../logo.png)
+# Prompts generales para alumnado![Logo](../../logo.png)
 </div>
 
 ## Contenido
