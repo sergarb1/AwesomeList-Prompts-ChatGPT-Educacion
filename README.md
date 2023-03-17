@@ -11,8 +11,10 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 <!-- TOC -->
 
-## Niveles educativos
 
+## Directorio de prompts
+
+- [Prompts generales de educación](#general)
 - [ESO](#eso)
     - [4º ESO](#4º-eso)
 - [Bachillerato](#bachillerato)
@@ -25,6 +27,11 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
     - [Familia Informática](#certificaciones-informatica)
 
 <!-- CONTENT -->
+
+## Prompts generales de educación
+
+- [Prompts generales para alumnado](general/alumnado/prompts.md)
+- [Prompts generales para profesorado](genreal/profesorado/prompts.md)
 
 ## ESO
 ### <a name="#eso4"></a>4º ESO
@@ -61,12 +68,12 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 ¡Contribuciones de cualquier tipo son bienvenidas! Contacta con nosotros :)
 
-### Autores que han contribuido
+## Autores que han contribuido
 
 - Sergi García Barea (https://github.com/sergarb1)
 
 
-### Licencia
+## Licencia
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.
 
