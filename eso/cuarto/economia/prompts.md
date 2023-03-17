@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-# Propmts de la asignatura Economía de 4º de la ESO![Logo](../../../logo.png)
+# Prompts de la asignatura Economía de 4º de la ESO![Logo](../../../logo.png)
 </div>
 
 ## Contenido
@@ -27,3 +27,9 @@ Una vez realices la pregunta, espera mi respuesta, comprueba si es correcta, si 
 En cualquier momento puedo ponerte como respuesta /S y muéstrame las estadísticas:
 Hazlo en una tabla donde me muestras número de preguntas correctas e incorrectas indicando sobre que tema debería estudiar más.
 ```
+
+### Licencia y autores que han contribuido
+
+CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.
+
+La lista de autores que han contribuido se encuentran en el ["README.md" principal del repositorio.](https://github.com/sergarb1/awesome-list-prompts-chagpt-educacion/blob/main/README.md)

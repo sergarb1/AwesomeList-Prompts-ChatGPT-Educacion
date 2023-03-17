@@ -1,6 +1,6 @@
 <div align="center">
 
-# Propmts de Certificaciones Profesionales de "AWS"![Logo](../../../logo.png)
+# Prompts de Certificaciones Profesionales de "AWS"![Logo](../../../logo.png)
 
 </div>
 

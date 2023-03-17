@@ -2,7 +2,7 @@
 
 <!-- title -->
 
-# Propmts del módulo "Programación" de los CFGS Desarrollo de Aplicaciones Multiplataforma y CFGS Desarrollo de Aplicaciones Web ![Logo](../../../logo.png)
+# Prompts del módulo "Programación" de los CFGS Desarrollo de Aplicaciones Multiplataforma y CFGS Desarrollo de Aplicaciones Web ![Logo](../../../logo.png)
 </div>
 
 ## Contenido
