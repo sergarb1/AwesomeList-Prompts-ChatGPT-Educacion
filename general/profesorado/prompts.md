@@ -2,7 +2,8 @@
 
 <!-- title -->
 
-# Prompts generales para profesorado![Logo](../../logo.png)
+# Prompts generales para profesorado
+![Logo](../../logo.png)
 </div>
 
 ## Contenido
