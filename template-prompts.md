@@ -9,7 +9,7 @@
 - [Prompt 01 - Por escribir](#prompt01)
 
 ## Prompts
-## <a name="prompt01"></a> Prompt 01 - Por escribri
+## <a name="prompt01"></a> Prompt 01 - Por escribir
 ```
 Por escribir
 ```
