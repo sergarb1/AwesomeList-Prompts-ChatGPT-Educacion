@@ -28,7 +28,7 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 <!-- CONTENT -->
 
-## Prompts generales de educación
+## <a name="#general"></a>Prompts generales de educación
 
 - [Prompts generales para alumnado](general/alumnado/prompts.md)
 - [Prompts generales para profesorado](genreal/profesorado/prompts.md)
