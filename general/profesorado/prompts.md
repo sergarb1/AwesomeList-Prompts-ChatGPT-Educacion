@@ -16,8 +16,10 @@ Actua como un profesor de informática. Quiero que me propongas un taller de rep
 El taller debe durar entre 1 hora y media y 2 horas y media
 
 Quiero que relacionado con el taller me digas: 
--Material necesario
--Actividades a realizar, indicando el tiempo estimado de duración de cada una
+-Titulo del taller.
+-Guia para el profesorado. Aquí indicará como debe proceder el profesorado.
+-Material necesario. Indicar que material hace falta y que será aportado por el centro educativo.
+-Actividades a realizar, indicando el tiempo estimado de duración de cada una. En cada actividad habrá un apartado con trucos de dinamización para el profesorado.
 -Extenso listado de preguntas frecuentes que pueden salir durante el taller, incluyendo la respuesta a esa preguntas
 ```
 
