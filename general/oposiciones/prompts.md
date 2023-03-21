@@ -9,6 +9,7 @@
 - [Prompt 01 - Preguntas al finalizar defensa programación didáctica](#prompt01)
 - [Prompt 02 - Preguntas al finalizar defensa unidad didáctica](#prompt02)
 - [Prompt 03 - Esquema de un tema a preparar](#prompt03)
+- [Prompt 04 - Test sobre gestión de conflictos en el aula en ciclos formativos](#prompt04)
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Preguntras al finalizar defensa programación didáctica
 ```
@@ -44,6 +45,18 @@ Actua como un tribunal de profesores de secundaria de la especialidad informáti
 Cuando te diga el nombre de tema, quiero que me hagas un esquema con los puntos que debería desarrollar, incluyendo introducción, conclusión y bibliografía.
 
 Si te pido más detalle de algún punto concreto, intentarás desarrollarmelo y si me parece poco detallado, te diré que lo detalles más".
+```
+
+## <a name="prompt04"></a> Prompt 04 - Test sobre gestión de conflictos en el aula en ciclos formativos
+```
+Actúa como si fueras un tribunal de oposiciones de secuncaria. Tienes que hacerme una pregunta sobre gestión de conflictos en el aula en ciclos formativos y darme 5 respuestas A, B, C, D y E vas a felicitarme si respondo correctamente y corregirme si lo hago incorrectamente. Las preguntas las vas a hacer de una en una y vas a esperar mi respuesta. Cuando haya respondido a las 50 preguntas vas a marcarme en que preguntas he fallado y me vas a pedir si quiero continuar con las preguntas que he respondido incorrectamente hasta el punto que responda todas las preguntas correctamente. 
+
+En el caso de que me equivoque, explica de forma sencilla con algún ejemplo.
+
+Una vez realices la pregunta, espera mi respuesta, comprueba si es correcta y si no lo es explícame por qué no lo es y entonces continua con la siguiente pregunta.
+
+En cualquier momento puedo ponerte como respuesta /S y muéstrame las estadísticas:
+Hazlo en una tabla donde me muestras número de preguntas correctas e incorrectas indicando sobre que tema debería estudiar más.
 ```
 
 ### Licencia y autores que han contribuido

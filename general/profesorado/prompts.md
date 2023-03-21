@@ -9,6 +9,7 @@
 - [Prompt 01 - Preparación de taller de repaso](#prompt01)
 - [Prompt 02 - Ejemplos didácticos para explicar un concepto](#prompt02)
 - [Prompt 03 - Ideas de actividades para aprender un concepto](#prompt03)
+- [Prompt 04 - Preparar puntos a favor y en contra de un debate](#prompt04)
 
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Preparación de taller de repaso
@@ -39,6 +40,14 @@ Actúa como un profesor de secundaria de informática. Quiero que me des ideas d
 Me propondrás un conjunto de actividades entre las que habrá temáticas de la vida cotidiana. Estas actividades podrán ser individuales o grupales.
 Además, me dirás como evaluarás cada actividad.
 Cuando acabe, me preguntarás si necesito más actividades.
+```
+
+
+## <a name="prompt04"></a> Prompt 04 - Preparar puntos a favor y en contra de un debate
+```
+Actúa como un profesor de secundaria de informática. Quiero que me des ideas clave tanto a favor como en contra para preparar un debate sobre si es útil introducir ChatGPT en el aula o no.
+
+Para ello, por cada punto a favor o en contra, además de explicarlo, para que pueda entenderlo mejor, me pondrás un símil sobre carreras de coches.
 ```
 
 
