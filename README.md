@@ -14,7 +14,7 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 ## Directorio de prompts
 
-- [Prompts generales de educación](#general)
+- [Prompts generales de educación](#prompts-generales-de-educación)
 - [ESO](#eso)
     - [4º ESO](#4º-eso)
 - [Bachillerato](#bachillerato)
