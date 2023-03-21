@@ -12,7 +12,7 @@
 ## <a name="prompt01"></a> Prompt 01 - Preguntras al finalizar defensa programación didáctica
 ```
 Actua como un tribunal de profesores de secundaria. Supon que te he realizado una defensa de una programación didactica del módulo "Programación de procesos y servicios" perteneciente al ciclo formativo de grado superior "Desarrollo de aplicaciones multiplataforma".
-En primer lugar, muestrame un ejemplo de unidades que habría tenido mi programación didáctica.
+En primer lugar, muestrame tu un  ejemplo de unidades didácticas que debería haber tenido mi programación didáctica.
 
 Tras ello, quiero que me hagas preguntas sobre didáctica relacionadas con mi programación didáctica.
 
