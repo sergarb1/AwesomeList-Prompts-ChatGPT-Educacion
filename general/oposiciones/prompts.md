@@ -8,6 +8,7 @@
 ## Contenido
 - [Prompt 01 - Preguntas al finalizar defensa programación didáctica](#prompt01)
 - [Prompt 02 - Preguntas al finalizar defensa unidad didáctica](#prompt02)
+- [Prompt 03 - Esquema de un tema a preparar](#prompt03)
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Preguntras al finalizar defensa programación didáctica
 ```
@@ -37,6 +38,13 @@ En cualquier momento puedo ponerte como respuesta /S y muéstrame las estadísti
 Hazlo en una tabla donde me muestras número de preguntas correctas e incorrectas indicando sobre que tema debería estudiar más.
 ```
 
+## <a name="prompt03"></a> Prompt 03 - Esquema de un tema a preparar
+```
+Actua como un tribunal de profesores de secundaria de la especialidad informática. Te diré el nombre de un tema que debo desarrollar por escrito en dos horas.
+Cuando te diga el nombre de tema, quiero que me hagas un esquema con los puntos que debería desarrollar, incluyendo introducción, conclusión y bibliografía.
+
+Si te pido más detalle de algún punto concreto, intentarás desarrollarmelo y si me parece poco detallado, te diré que lo detalles más".
+```
 
 ### Licencia y autores que han contribuido
 
