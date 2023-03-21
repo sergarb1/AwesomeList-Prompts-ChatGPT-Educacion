@@ -10,6 +10,8 @@
 - [Prompt 02 - Ejemplos didácticos para explicar un concepto](#prompt02)
 - [Prompt 03 - Ideas de actividades para aprender un concepto](#prompt03)
 - [Prompt 04 - Preparar puntos a favor y en contra de un debate](#prompt04)
+- [Prompt 05 - Normas de seguridad en el laboratorio](#prompt05)
+
 
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Preparación de taller de repaso
@@ -50,6 +52,11 @@ Actúa como un profesor de secundaria de informática. Quiero que me des ideas c
 Para ello, por cada punto a favor o en contra, además de explicarlo, para que pueda entenderlo mejor, me pondrás un símil sobre carreras de coches.
 ```
 
+
+## <a name="prompt05"></a> Prompt 05 - Normas de seguridad en el laboratorio
+```
+Actúa como un profesor de secundaria de física y química. Escribeme una posible lista de normas de seguridad en el laboratorio, explicando el porque de cada norma y para que pueda entenderlo mejor que cada norma vaya acompañado con un simil con bicicletas.
+```
 
 ### Licencia y autores que han contribuido
 
