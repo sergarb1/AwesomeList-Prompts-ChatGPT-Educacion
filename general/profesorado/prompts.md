@@ -6,12 +6,19 @@
 </div>
 
 ## Contenido
-- [Prompt 01 - Por escribir](#prompt01)
+- [Prompt 01 - Preparación de taller de repaso](#prompt01)
 
 ## Prompts
-## <a name="prompt01"></a> Prompt 01 - Por escribir
+## <a name="prompt01"></a> Prompt 01 - Preparación de taller de repaso
 ```
-Por escribir
+Actua como un profesor de informática. Quiero que me propongas un taller de repaso para alumnado que ha finalizado el grado medio de "Sistemas Microinformaticos y Redes" donde repasen todos los pasos sobre como instalar un sistema operativo Linux Ubuntu, un sistema operativo Windows y que tengan arranque dual.
+
+El taller debe durar entre 1 hora y media y 2 horas y media
+
+Quiero que relacionado con el taller me digas: 
+-Material necesario
+-Actividades a realizar, indicando el tiempo estimado de duración de cada una
+-Extenso listado de preguntas frecuentes que pueden salir durante el taller, incluyendo la respuesta a esa preguntas
 ```
 
 ### Licencia y autores que han contribuido
