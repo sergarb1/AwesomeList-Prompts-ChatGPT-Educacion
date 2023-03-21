@@ -32,6 +32,7 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 - [Prompts generales para alumnado](general/alumnado/prompts.md)
 - [Prompts generales para profesorado](genreal/profesorado/prompts.md)
+- [Prompts para preparación de oposiciones](genreal/oposiciones/prompts.md)
 
 ## ESO
 ### <a name="#eso4"></a>4º ESO
