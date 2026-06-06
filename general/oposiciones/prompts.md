@@ -10,6 +10,8 @@
 - [Prompt 02 - Preguntas al finalizar defensa unidad didáctica](#prompt02)
 - [Prompt 03 - Esquema de un tema a preparar](#prompt03)
 - [Prompt 04 - Test sobre gestión de conflictos en el aula en ciclos formativos](#prompt04)
+- [Prompt 05 - Simulación de defensa oral](#prompt05)
+- [Prompt 06 - Práctica de supuestos prácticos](#prompt06)
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Preguntras al finalizar defensa programación didáctica
 ```
@@ -57,6 +59,32 @@ Una vez realices la pregunta, espera mi respuesta, comprueba si es correcta y si
 
 En cualquier momento puedo ponerte como respuesta /S y muéstrame las estadísticas:
 Hazlo en una tabla donde me muestras número de preguntas correctas e incorrectas indicando sobre que tema debería estudiar más.
+```
+
+## <a name="prompt05"></a> Prompt 05 - Simulación de defensa oral
+```
+Actúa como un tribunal de oposiciones de secundaria de la especialidad de informática.
+Voy a simular la defensa oral de mi programación didáctica. Tú vas a hacer el papel del tribunal.
+
+Primero, pídeme que te explique mi programación en 10 minutos. Cuando termine, hazme preguntas sobre:
+- Justificación de la metodología elegida.
+- Atención a la diversidad.
+- Evaluación y recuperación.
+- Relación interdisciplinar con otros módulos.
+
+Evalúa mis respuestas y dame feedback constructivo al final, señalando mis puntos fuertes y áreas de mejora.
+```
+
+## <a name="prompt06"></a> Prompt 06 - Práctica de supuestos prácticos
+```
+Actúa como un tribunal de oposiciones. Voy a practicar supuestos prácticos para la especialidad de informática.
+Propónme un supuesto práctico similar a los de la oposición que incluya:
+
+- Un enunciado con contexto real (centro educativo, alumnado, recursos disponibles).
+- Varios apartados (análisis de la situación, propuesta de intervención, justificación legal, evaluación).
+
+Dame 60 minutos para resolverlo (avísame cuando pasen 30 y 50 minutos).
+Al final, evalúa mi solución con una rúbrica y dame una nota orientativa.
 ```
 
 ### Licencia y autores que han contribuido

@@ -7,6 +7,7 @@
 
 ## Contenido
 - [Prompt 01 - Examen de Economía](#prompt01)
+- [Prompt 02 - Casos prácticos de economía doméstica](#prompt02)
 
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Examen de Economía
@@ -28,6 +29,16 @@ En cualquier momento puedo ponerte como respuesta /S y muéstrame las estadísti
 Hazlo en una tabla donde me muestras número de preguntas correctas e incorrectas indicando sobre que tema debería estudiar más.
 ```
 
+## <a name="prompt02"></a> Prompt 02 - Casos prácticos de economía doméstica
+```
+Actúa como un profesor de economía de 4º de la ESO.
+Propónme 3 casos prácticos de economía doméstica donde tenga que calcular:
+- Presupuesto familiar mensual con ingresos y gastos.
+- Ahorro e inversión de una cantidad inicial.
+- Comparativa de productos financieros (cuenta corriente, depósito, fondo de inversión).
+
+Para cada caso, dame los datos y guíame paso a paso. Al final, dime si mis cálculos son correctos.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.

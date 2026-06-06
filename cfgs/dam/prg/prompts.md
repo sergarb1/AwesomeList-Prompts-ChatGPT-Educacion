@@ -7,6 +7,7 @@
 
 ## Contenido
 - [Prompt 01 - Examen de Programación](#prompt01)
+- [Prompt 02 - Ejercicios de debugging](#prompt02)
 
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Examen de Programación
@@ -28,6 +29,19 @@ En cualquier momento puedo ponerte como respuesta /S y muéstrame las estadísti
 Hazlo en una tabla donde me muestras número de preguntas correctas e incorrectas indicando sobre que tema debería estudiar más.
 ```
 
+## <a name="prompt02"></a> Prompt 02 - Ejercicios de debugging
+```
+Actúa como un profesor de programación de ciclos formativos.
+Te voy a dar un fragmento de código (en Java o Python) que contiene errores. No me digas cuáles son los errores directamente.
+
+En lugar de eso:
+1. Dame pistas sobre qué línea o tipo de error puede haber.
+2. Pregúntame qué creo que hace cada parte del código.
+3. Si no encuentro el error, dame una pista más concreta.
+4. Cuando lo encuentre, felicítame y pregúntame si quiero otro ejercicio.
+
+El código debe tener errores típicos de alumnado de DAM/DAW: variables no inicializadas, bucles infinitos, excepciones no controladas, errores de lógica, etc.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.

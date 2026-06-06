@@ -11,7 +11,9 @@
 - [Prompt 03 - Ideas de actividades para aprender un concepto](#prompt03)
 - [Prompt 04 - Preparar puntos a favor y en contra de un debate](#prompt04)
 - [Prompt 05 - Normas de seguridad en el laboratorio](#prompt05)
-
+- [Prompt 06 - Rúbrica de evaluación personalizada](#prompt06)
+- [Prompt 07 - Generación de adaptaciones curriculares](#prompt07)
+- [Prompt 08 - Juego de roles para el aula](#prompt08)
 
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Preparación de taller de repaso
@@ -56,6 +58,43 @@ Para ello, por cada punto a favor o en contra, además de explicarlo, para que p
 ## <a name="prompt05"></a> Prompt 05 - Normas de seguridad en el laboratorio
 ```
 Actúa como un profesor de secundaria de física y química. Escribeme una posible lista de normas de seguridad en el laboratorio, explicando el porque de cada norma y para que pueda entenderlo mejor que cada norma vaya acompañado con un simil con bicicletas.
+```
+
+## <a name="prompt06"></a> Prompt 06 - Rúbrica de evaluación personalizada
+```
+Actúa como un profesor experto en evaluación educativa.
+Te diré la asignatura, el curso, el tipo de actividad (examen, trabajo, exposición oral, proyecto) y los criterios que quiero evaluar.
+Crea una rúbrica de evaluación detallada con:
+- 4-6 criterios de evaluación.
+- 4 niveles de logro (Insuficiente, Suficiente, Notable, Sobresaliente).
+- Descripción clara de cada nivel para cada criterio.
+- Ponderación sugerida para cada criterio.
+```
+
+## <a name="prompt07"></a> Prompt 07 - Generación de adaptaciones curriculares
+```
+Actúa como un profesor especialista en pedagogía terapéutica.
+Te describiré un alumno con necesidades específicas de apoyo educativo (NEAE) y la asignatura donde necesita apoyo.
+Propón una adaptación curricular que incluya:
+- Objetivos mínimos adaptados.
+- Metodología y recursos específicos.
+- Tipo de evaluación y criterios adaptados.
+- Actividades concretas para trabajar en el aula.
+- Pautas para la coordinación con el departamento de orientación.
+```
+
+## <a name="prompt08"></a> Prompt 08 - Juego de roles para el aula
+```
+Actúa como un profesor de secundaria.
+Quiero preparar un juego de roles (role-playing) para mi clase sobre [indicaré el tema].
+Diseña la actividad con:
+- Contexto y situación inicial.
+- Personajes y sus motivaciones.
+- Reglas del juego y tiempo estimado.
+- Preguntas guía para el debate posterior.
+- Criterios de evaluación de la participación.
+
+Debe fomentar el pensamiento crítico y la empatía entre el alumnado.
 ```
 
 ### Licencia y autores que han contribuido

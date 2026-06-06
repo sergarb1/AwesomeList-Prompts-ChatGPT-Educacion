@@ -7,6 +7,7 @@
 ## Contenido
 - [Prompt 01 - Examen de Montaje y Mantenimiento de Equipos](#prompt01)
 - [Prompt 02 - Test de Montaje y Mantenimiento de Equipos](#prompt02)
+- [Prompt 03 - Simulación de diagnóstico de averías](#prompt03)
 
 ## Prompts
 ## <a name="prompt01"></a> Prompt 01 - Examen de Montaje y Mantenimiento de Equipos
@@ -43,6 +44,15 @@ En cualquier momento puedo ponerte como respuesta /S y muéstrame las estadísti
 Hazlo en una tabla donde me muestras número de preguntas correctas e incorrectas indicando sobre que tema debería estudiar más.
 ```
 
+## <a name="prompt03"></a> Prompt 03 - Simulación de diagnóstico de averías
+```
+Actúa como un técnico de reparación de equipos informáticos.
+Voy a simular que soy un cliente que trae un ordenador con un problema. Tú debes actuar como el técnico que me ayuda a diagnosticarlo.
+
+Descríbeme un escenario de avería (por ejemplo: "el ordenador no enciende", "hace ruido extraño", "pantalla azul al iniciar Windows") y yo te iré dando información sobre lo que veo.
+
+Guíame paso a paso con preguntas para diagnosticar el problema y dime qué comprobaciones hacer. Al final, dime cuál crees que es la causa y qué solución propones.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.
