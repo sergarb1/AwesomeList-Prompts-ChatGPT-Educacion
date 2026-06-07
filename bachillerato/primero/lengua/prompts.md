@@ -41,6 +41,16 @@ Te voy a proporcionar un texto literario. Quiero que me guíes para hacer un com
 No me des el comentario hecho. Guíame paso a paso: dime qué debo buscar, espera mi respuesta, y después corrígeme o completa la información.
 ```
 
+## <a name="prompt03"></a> Prompt 03 - Análisis sintáctico de oraciones complejas
+```
+Actúa como un profesor de lengua de 1º de bachillerato. Voy a practicar análisis sintáctico de oraciones complejas.
+Dame una oración compleja (subordinación sustantiva, adjetiva o adverbial) y yo debo:
+1. Identificar el verbo principal y los verbos subordinados.
+2. Separar la oración principal de la(s) subordinada(s).
+3. Clasificar el tipo de subordinada.
+4. Analizar las funciones sintácticas dentro de cada proposición.
+Hazlo con 5 oraciones de dificultad creciente. Corrígeme si me equivoco.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.

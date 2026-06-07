@@ -35,6 +35,14 @@ Para cada acontecimiento, incluye: fecha, nombre del evento, breve descripción 
 Al final, pregúntame qué periodo me gustaría explorar en más detalle.
 ```
 
+## <a name="prompt03"></a> Prompt 03 - El clima y los paisajes de España
+```
+Actúa como un profesor de geografía de 2º de la ESO. Vamos a repasar los climas de España.
+Describeme un clima español (temperaturas, precipitaciones, vegetación, localización geográfica) sin decirme el nombre.
+Yo debo adivinar de qué clima se trata y explicar qué paisaje le corresponde.
+Si acierto, amplía la información con datos curiosos. Si fallo, dame más pistas.
+Hazlo con los 5 grandes climas de España: oceánico, mediterráneo típico, mediterráneo continentalizado, subtropical, montaña.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.

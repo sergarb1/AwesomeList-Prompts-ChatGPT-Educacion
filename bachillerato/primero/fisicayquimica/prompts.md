@@ -42,6 +42,13 @@ Propónme un problema y guíame paso a paso:
 
 Si me equivoco, corrígeme con una explicación. Después de cada problema, pregúntame si quiero otro.
 ```
+## <a name="prompt03"></a> Prompt 03 - Práctica de formulación y nomenclatura química
+```
+Actúa como un profesor de química de 1º de bachillerato. Voy a practicar formulación y nomenclatura química inorgánica (IUPAC 2005 y tradicional).
+Dame 10 compuestos químicos (óxidos, hidruros, hidróxidos, ácidos, sales binarias) escritos en formulación y yo debo escribir su nombre en los sistemas de nomenclatura que me pidas.
+Alternativamente, dime 10 nombres de compuestos y yo debo escribir su fórmula.
+Corrígeme si me equivoco y explícame la regla. Al final, dime qué tipo de compuestos necesito repasar más.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.

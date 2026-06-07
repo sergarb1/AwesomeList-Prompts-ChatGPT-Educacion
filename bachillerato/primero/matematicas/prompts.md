@@ -38,6 +38,16 @@ Si me equivoco, corrígeme explicando el concepto.
 Al final de cada función, dime si mi representación final es correcta o qué errores he cometido.
 ```
 
+## <a name="prompt03"></a> Prompt 03 - Problemas de trigonometría
+```
+Actúa como un profesor de matemáticas de 1º de bachillerato. Voy a practicar trigonometría.
+Propónme 3 problemas:
+1. Resolución de un triángulo rectángulo (calcular lados y ángulos).
+2. Aplicación de las leyes del seno y del coseno en un triángulo no rectángulo.
+3. Un problema de aplicación real (calcular alturas, distancias, etc.).
+Resuelve cada problema conmigo paso a paso: pídeme los datos, la fórmula, el desarrollo y el resultado.
+Si me equivoco, corrígeme. Al final, dime qué conceptos necesito reforzar.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.

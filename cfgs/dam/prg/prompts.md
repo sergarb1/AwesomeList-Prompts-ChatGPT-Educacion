@@ -42,6 +42,18 @@ En lugar de eso:
 
 El código debe tener errores típicos de alumnado de DAM/DAW: variables no inicializadas, bucles infinitos, excepciones no controladas, errores de lógica, etc.
 ```
+## <a name="prompt03"></a> Prompt 03 - Práctica de programación orientada a objetos
+```
+Actúa como un profesor de programación de CFGS. Voy a practicar programación orientada a objetos.
+Propónme un enunciado para diseñar un sistema con POO que incluya:
+- Al menos 3 clases con herencia.
+- Atributos privados con getters/setters.
+- Métodos con polimorfismo (sobrescritura y sobrecarga).
+- Una interfaz o clase abstracta.
+- Una relación de composición o agregación.
+Después de leer el enunciado, yo debo escribir las clases en Java. Tú me guías: pídeme cada clase por separado, corrige y sugiere mejoras.
+Al final, dime si mi diseño sigue los principios SOLID.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.

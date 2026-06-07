@@ -1,109 +1,109 @@
 <div align="center">
 
-<!-- title -->
 # Awesome List - Prompts ChatGPT para educación ![Logo](logo.png)
 
-<!-- description -->
-Una "Awesome list" (lista increible) sobre prompts para ChatGPT relacionados con la educación.
-En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com) útiles para distintos niveles educativos.
+Una "Awesome list" de prompts para ChatGPT enfocados en educación.
+Recopilamos prompts de [ChatGPT](https://chat.openai.com) útiles para distintos niveles del sistema educativo español.
 
-**Última actualización: 06/06/2026**
+**Última actualización: 07/06/2026** — **+80 asignaturas/módulos**
 
 </div>
-
-<!-- TOC -->
 
 ## Directorio de prompts
 
 - [Prompts generales de educación](#prompts-generales-de-educación)
-- [ESO](#eso)
-    - [1º ESO](#1-eso)
-    - [2º ESO](#2-eso)
-    - [3º ESO](#3-eso)
-    - [4º ESO](#4º-eso)
-- [Bachillerato](#bachillerato)
-    - [1º Bachillerato](#1-bachillerato)
-    - [2º Bachillerato](#2-bachillerato)
-- [Ciclos Formativos - Grado Medio](#cfgm)
-    - [CFGM Sistemas Microinformaticos y Redes](#cfgm-smr)
-    - [CFGM Gestión Administrativa](#cfgm-ga)
-- [Ciclos Formativos - Grado Superior](#cfgs)
-    - [CFGS Desarrollo de Aplicaciones Multiplataforma](#cfgs-dam)
-    - [CFGS Administración y Finanzas](#cfgs-af)
+- [ESO](#eso) — [1º](#1-eso) [2º](#2-eso) [3º](#3-eso) [4º](#4º-eso)
+- [Bachillerato](#bachillerato) — [1º](#1-bachillerato) [2º](#2-bachillerato)
+- [CFGM (Grado Medio)](#cfgm) — [SMR](#cfgm-smr) [GA](#cfgm-ga) [Electricidad](#cfgm-electricidad) [Cocina](#cfgm-cocina)
+- [CFGS (Grado Superior)](#cfgs) — [DAM](#cfgs-dam) [DAW](#cfgs-daw) [ASIR](#cfgs-asir) [AF](#cfgs-af) [Marketing](#cfgs-marketing)
 - [Certificaciones Profesionales](#certificaciones)
-    - [Familia Informática](#certificaciones-informatica)
-
-<!-- CONTENT -->
 
 ## <a name="#general"></a>Prompts generales de educación
 
-- [Prompts generales para alumnado](general/alumnado/prompts.md)
-- [Prompts generales para profesorado](general/profesorado/prompts.md)
-- [Prompts para preparación de oposiciones](general/oposiciones/prompts.md)
+- [Alumnado](general/alumnado/prompts.md) — esquemas, glosarios, autoevaluación, plan de estudio
+- [Profesorado](general/profesorado/prompts.md) — talleres, rúbricas, adaptaciones curriculares, juegos de rol
+- [Oposiciones](general/oposiciones/prompts.md) — defensa programación, supuestos prácticos, simulación oral
+- [Técnicas de estudio](general/tecnicasdeestudio/prompts.md) — plan personalizado, memorización, preparación exámenes
+- [Orientación académica](general/orientacion/prompts.md) — itinerarios educativos, orientación profesional
 
 ## ESO
 
 ### <a name="#eso1"></a>1º ESO
 
-- [Biología y Geología 1º ESO](eso/primero/biologia/prompts.md)
-- [Geografía e Historia 1º ESO](eso/primero/geografiahistoria/prompts.md)
-- [Matemáticas 1º ESO](eso/primero/matematicas/prompts.md)
-- [Lengua Castellana 1º ESO](eso/primero/lengua/prompts.md)
-- [Inglés 1º ESO](eso/primero/ingles/prompts.md)
+- [Biología y Geología](eso/primero/biologia/prompts.md)
+- [Geografía e Historia](eso/primero/geografiahistoria/prompts.md)
+- [Matemáticas](eso/primero/matematicas/prompts.md)
+- [Lengua Castellana](eso/primero/lengua/prompts.md)
+- [Inglés](eso/primero/ingles/prompts.md)
+- [Música](eso/primero/musica/prompts.md)
+- [Tecnología y Digitalización](eso/primero/tecnologiaydigitalizacion/prompts.md)
+- [Educación Plástica y Visual](eso/primero/plastica/prompts.md)
 
 ### <a name="#eso2"></a>2º ESO
 
-- [Geografía e Historia 2º ESO](eso/segundo/geografia/prompts.md)
-- [Matemáticas 2º ESO](eso/segundo/matematicas/prompts.md)
-- [Lengua Castellana 2º ESO](eso/segundo/lengua/prompts.md)
-- [Inglés 2º ESO](eso/segundo/ingles/prompts.md)
-- [Física y Química 2º ESO](eso/segundo/fisicaquimica/prompts.md)
-- [Biología y Geología 2º ESO](eso/segundo/biologia/prompts.md)
+- [Geografía e Historia](eso/segundo/geografia/prompts.md)
+- [Matemáticas](eso/segundo/matematicas/prompts.md)
+- [Lengua Castellana](eso/segundo/lengua/prompts.md)
+- [Inglés](eso/segundo/ingles/prompts.md)
+- [Física y Química](eso/segundo/fisicaquimica/prompts.md)
+- [Biología y Geología](eso/segundo/biologia/prompts.md)
+- [Música](eso/segundo/musica/prompts.md)
+- [Tecnología y Digitalización](eso/segundo/tecnologiaydigitalizacion/prompts.md)
+- [Educación Plástica y Visual](eso/segundo/plastica/prompts.md)
 
 ### <a name="#eso3"></a>3º ESO
 
-- [Matemáticas 3º ESO](eso/tercero/matematicas/prompts.md)
-- [Lengua Castellana 3º ESO](eso/tercero/lengua/prompts.md)
-- [Inglés 3º ESO](eso/tercero/ingles/prompts.md)
-- [Geografía e Historia 3º ESO](eso/tercero/geografiahistoria/prompts.md)
-- [Biología y Geología 3º ESO](eso/tercero/biologia/prompts.md)
-- [Física y Química 3º ESO](eso/tercero/fisicaquimica/prompts.md)
+- [Matemáticas](eso/tercero/matematicas/prompts.md)
+- [Lengua Castellana](eso/tercero/lengua/prompts.md)
+- [Inglés](eso/tercero/ingles/prompts.md)
+- [Geografía e Historia](eso/tercero/geografiahistoria/prompts.md)
+- [Biología y Geología](eso/tercero/biologia/prompts.md)
+- [Física y Química](eso/tercero/fisicaquimica/prompts.md)
+- [Música](eso/tercero/musica/prompts.md)
+- [Tecnología y Digitalización](eso/tercero/tecnologiaydigitalizacion/prompts.md)
+- [Educación Plástica y Visual](eso/tercero/plastica/prompts.md)
 
 ### <a name="#eso4"></a>4º ESO
 
-- [Economía 4º ESO](eso/cuarto/economia/prompts.md)
-- [Matemáticas 4º ESO](eso/cuarto/matematicas/prompts.md)
-- [Lengua Castellana y Literatura 4º ESO](eso/cuarto/lengua/prompts.md)
-- [Inglés 4º ESO](eso/cuarto/ingles/prompts.md)
-- [Geografía e Historia 4º ESO](eso/cuarto/geografiahistoria/prompts.md)
-- [Biología y Geología 4º ESO](eso/cuarto/biologia/prompts.md)
-- [Física y Química 4º ESO](eso/cuarto/fisicaquimica/prompts.md)
-- [Tecnología 4º ESO](eso/cuarto/tecnologia/prompts.md)
+- [Economía](eso/cuarto/economia/prompts.md)
+- [Matemáticas](eso/cuarto/matematicas/prompts.md)
+- [Lengua Castellana y Literatura](eso/cuarto/lengua/prompts.md)
+- [Inglés](eso/cuarto/ingles/prompts.md)
+- [Geografía e Historia](eso/cuarto/geografiahistoria/prompts.md)
+- [Biología y Geología](eso/cuarto/biologia/prompts.md)
+- [Física y Química](eso/cuarto/fisicaquimica/prompts.md)
+- [Tecnología](eso/cuarto/tecnologia/prompts.md)
+- [Valores Éticos](eso/cuarto/valoreseticos/prompts.md)
 
 ## Bachillerato
 
 ### <a name="#bachillerato1"></a>1º Bachillerato
 
-- [Física y Química 1º Bachillerato](bachillerato/primero/fisicayquimica/prompts.md)
-- [Matemáticas 1º Bachillerato](bachillerato/primero/matematicas/prompts.md)
-- [Lengua Castellana y Literatura 1º Bachillerato](bachillerato/primero/lengua/prompts.md)
-- [Historia del Mundo Contemporáneo 1º Bachillerato](bachillerato/primero/historiadelmundo/prompts.md)
-- [Economía 1º Bachillerato](bachillerato/primero/economia/prompts.md)
-- [Inglés 1º Bachillerato](bachillerato/primero/ingles/prompts.md)
-- [Dibujo Técnico 1º Bachillerato](bachillerato/primero/dibujotecnico/prompts.md)
+- [Física y Química](bachillerato/primero/fisicayquimica/prompts.md)
+- [Matemáticas](bachillerato/primero/matematicas/prompts.md)
+- [Lengua Castellana y Literatura](bachillerato/primero/lengua/prompts.md)
+- [Historia del Mundo Contemporáneo](bachillerato/primero/historiadelmundo/prompts.md)
+- [Economía](bachillerato/primero/economia/prompts.md)
+- [Inglés](bachillerato/primero/ingles/prompts.md)
+- [Dibujo Técnico](bachillerato/primero/dibujotecnico/prompts.md)
+- [Latín](bachillerato/primero/latin/prompts.md)
+- [Tecnologías de la Información (TIC)](bachillerato/primero/tics/prompts.md)
 
 ### <a name="#bachillerato2"></a>2º Bachillerato
 
-- [Historia de España 2º Bachillerato](bachillerato/segundo/historia/prompts.md)
-- [Lengua Castellana y Literatura 2º Bachillerato](bachillerato/segundo/lengua/prompts.md)
-- [Matemáticas II 2º Bachillerato](bachillerato/segundo/matematicasii/prompts.md)
-- [Química 2º Bachillerato](bachillerato/segundo/quimica/prompts.md)
-- [Biología 2º Bachillerato](bachillerato/segundo/biologia/prompts.md)
-- [Inglés 2º Bachillerato](bachillerato/segundo/ingles/prompts.md)
-- [Empresa y Diseño de Modelos de Negocio 2º Bachillerato](bachillerato/segundo/empresaydiseno/prompts.md)
-- [Geografía 2º Bachillerato](bachillerato/segundo/geografia/prompts.md)
+- [Historia de España](bachillerato/segundo/historia/prompts.md)
+- [Lengua Castellana y Literatura](bachillerato/segundo/lengua/prompts.md)
+- [Matemáticas II](bachillerato/segundo/matematicasii/prompts.md)
+- [Química](bachillerato/segundo/quimica/prompts.md)
+- [Biología](bachillerato/segundo/biologia/prompts.md)
+- [Inglés](bachillerato/segundo/ingles/prompts.md)
+- [Empresa y Diseño de Modelos de Negocio](bachillerato/segundo/empresaydiseno/prompts.md)
+- [Geografía](bachillerato/segundo/geografia/prompts.md)
+- [Historia de la Filosofía](bachillerato/segundo/historiafilosofia/prompts.md)
+- [Historia del Arte](bachillerato/segundo/historiadelarte/prompts.md)
+- [Ciencias de la Tierra y del Medio Ambiente](bachillerato/segundo/cienciasdelatierra/prompts.md)
 
-## <a name="cfgm"></a>Ciclos Formativos - Grado Medio
+## <a name="cfgm"></a>Ciclos Formativos — Grado Medio
 
 ### <a name="cfgm-smr"></a>CFGM Sistemas Microinformáticos y Redes
 
@@ -117,7 +117,15 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 
 - [Gestión Administrativa](cfgm/ga/gestadm/prompts.md)
 
-## <a name="cfgs"></a>Ciclos Formativos - Grado Superior
+### <a name="cfgm-electricidad"></a>CFGM Instalaciones Eléctricas y Automáticas
+
+- [Instalaciones Eléctricas y Automáticas](cfgm/electricidad/iea/prompts.md)
+
+### <a name="cfgm-cocina"></a>CFGM Cocina y Gastronomía
+
+- [Cocina y Gastronomía](cfgm/cocina/cocina/prompts.md)
+
+## <a name="cfgs"></a>Ciclos Formativos — Grado Superior
 
 ### <a name="cfgs-dam"></a>CFGS Desarrollo de Aplicaciones Multiplataforma
 
@@ -130,31 +138,44 @@ En esta lista recopilamos distintos prompts de [ChatGPT](https://chat.openai.com
 - [Lenguajes de Marcas](cfgs/dam/lm/prompts.md)
 - [Acceso a Datos](cfgs/dam/ad/prompts.md)
 
+### <a name="cfgs-daw"></a>CFGS Desarrollo de Aplicaciones Web
+
+- [Desarrollo Web (Cliente, Servidor, Despliegue)](cfgs/daw/prompts.md)
+
+### <a name="cfgs-asir"></a>CFGS Administración de Sistemas Informáticos en Red
+
+- [Administración de Sistemas Informáticos en Red](cfgs/asir/prompts.md)
+
 ### <a name="cfgs-af"></a>CFGS Administración y Finanzas
 
 - [Administración y Finanzas](cfgs/af/admfinanzas/prompts.md)
 
+### <a name="cfgs-marketing"></a>CFGS Marketing y Publicidad
+
+- [Marketing y Publicidad](cfgs/marketing/prompts.md)
+
 ## <a name="certificaciones"></a>Certificaciones Profesionales
 
-### <a name="certificaciones-informatica"></a>Familia de Informática
+### Familia de Informática
 
-- [AWS](certificaciones/informatica/aws/prompts.md)
-- [CCNA (Cisco)](certificaciones/informatica/ccna/prompts.md)
-- [Linux Professional Institute](certificaciones/informatica/linux/prompts.md)
-- [Microsoft Azure](certificaciones/informatica/azure/prompts.md)
-- [Scrum (PSM I)](certificaciones/informatica/scrum/prompts.md)
+- [AWS — Certified Cloud Practitioner / Architect](certificaciones/informatica/aws/prompts.md)
+- [CCNA — Cisco Certified Network Associate](certificaciones/informatica/ccna/prompts.md)
+- [Linux — LPI Linux Essentials](certificaciones/informatica/linux/prompts.md)
+- [Microsoft Azure — AZ-900](certificaciones/informatica/azure/prompts.md)
+- [Scrum — PSM I / Product Owner](certificaciones/informatica/scrum/prompts.md)
 - [CompTIA A+](certificaciones/informatica/comptia/prompts.md)
-
-<!-- END CONTENT -->
+- [Google Cloud — Digital Leader](certificaciones/informatica/googlecloud/prompts.md)
+- [ITIL 4 Foundation](certificaciones/informatica/itil/prompts.md)
+- [ISTQB — Foundation Level (CTFL)](certificaciones/informatica/istqb/prompts.md)
 
 ## Contribuciones
 
-¡Contribuciones de cualquier tipo son bienvenidas! Contacta con nosotros :)
+¡Contribuciones bienvenidas! Contacta con nosotros :)
 
-## Autores que han contribuido
+## Autores
 
 - Sergi García Barea (https://github.com/sergarb1)
 
 ## Licencia
 
-CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.
+CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/

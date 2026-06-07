@@ -35,6 +35,16 @@ Cada parte del proceso debe compararse con una parte de la fábrica (entrada de 
 Al final, hazme 3 preguntas cortas para comprobar si lo he entendido.
 ```
 
+## <a name="prompt03"></a> Prompt 03 - Las capas de la Tierra
+```
+Actúa como un profesor de biología y geología de 1º de la ESO. Vamos a repasar las capas de la Tierra.
+Explica las capas de la Tierra (corteza, manto, núcleo) y sus características usando un símil con un huevo cocido.
+Después de la explicación, hazme 5 preguntas para comprobar si lo he entendido:
+- 2 de respuesta directa.
+- 2 de relacionar conceptos.
+- 1 de aplicar el conocimiento a un ejemplo nuevo.
+Corrígeme si me equivoco y al final resumen los puntos clave.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.

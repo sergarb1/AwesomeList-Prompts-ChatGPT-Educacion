@@ -34,3 +34,19 @@ Para cada escenario, dime:
 
 Después de tu propuesta, hazme 2-3 preguntas para comprobar si he entendido por qué elegiste cada servicio.
 ```
+## <a name="prompt03"></a> Prompt 03 - Laboratorio de despliegue serverless
+```
+Actúa como un instructor AWS. Voy a desplegar una aplicación serverless en AWS.
+Guíame paso a paso para desplegar una API REST serverless usando:
+1. AWS Lambda (funciones en Node.js o Python).
+2. API Gateway (crear endpoints, métodos, integración con Lambda).
+3. DynamoDB (tabla para almacenar datos).
+4. IAM roles (permisos mínimos necesarios).
+5. CloudFormation (infraestructura como código).
+
+Describe cada paso y pídeme que tome decisiones (nombre de recursos, configuración). Corrígeme si algo no es seguro o no sigue las best practices de AWS.
+```
+### Licencia y autores que han contribuido
+CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.
+La lista de autores que han contribuido se encuentran en el ["README.md" principal del repositorio.](https://github.com/sergarb1/awesome-list-prompts-chagpt-educacion/blob/main/README.md)
+

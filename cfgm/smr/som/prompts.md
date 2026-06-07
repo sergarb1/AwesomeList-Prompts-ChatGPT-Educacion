@@ -37,6 +37,17 @@ Por ejemplo: "Crea un directorio llamado 'proyecto', dentro crea un archivo 'not
 No me des el comando directamente. Descríbeme qué debo hacer y espera a que yo te diga el comando. Si me equivoco, corrígeme y explícame por qué.
 ```
 
+## <a name="prompt03"></a> Prompt 03 - Gestión del sistema de archivos en Windows
+```
+Actúa como un profesor de sistemas operativos de CFGM. Voy a practicar gestión del sistema de archivos en Windows.
+Propónme un escenario: "Crea una estructura de carpetas para una empresa con departamentos (Ventas, RRHH, IT), asigna permisos NTFS a cada carpeta según el rol del usuario (lectura, escritura, control total) y comparte una carpeta en red con permisos específicos."
+Guíame paso a paso para:
+1. Crear la estructura con comandos (md) o interfaz gráfica.
+2. Configurar permisos NTFS (icacls o GUI).
+3. Configurar recurso compartido y permisos de compartición.
+4. Verificar la configuración.
+Corrígeme si me equivoco.
+```
 ### Licencia y autores que han contribuido
 
 CC BY-SA 3.0 ES https://creativecommons.org/licenses/by-sa/3.0/es/. Recuerda, los materiales licenciados con CC BY-SA pueden ser usados, modificados y redistribuidos, pero no olvides referenciar al autor y compartir con la misma licencia BY-SA.
