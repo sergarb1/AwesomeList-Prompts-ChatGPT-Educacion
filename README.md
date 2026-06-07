@@ -5,13 +5,14 @@
 Una "Awesome list" de prompts para ChatGPT enfocados en educación.
 Recopilamos prompts de [ChatGPT](https://chat.openai.com) útiles para distintos niveles del sistema educativo español.
 
-**Última actualización: 07/06/2026** — **+80 asignaturas/módulos**
+**Última actualización: 07/06/2026** — **+95 asignaturas/módulos**
 
 </div>
 
 ## Directorio de prompts
 
 - [Prompts generales de educación](#prompts-generales-de-educación)
+    - [Formación en IA para docentes](#formación-en-ia-para-docentes--6-charlas--48-prompts)
 - [ESO](#eso) — [1º](#1-eso) [2º](#2-eso) [3º](#3-eso) [4º](#4º-eso)
 - [Bachillerato](#bachillerato) — [1º](#1-bachillerato) [2º](#2-bachillerato)
 - [CFGM (Grado Medio)](#cfgm) — [SMR](#cfgm-smr) [GA](#cfgm-ga) [Electricidad](#cfgm-electricidad) [Cocina](#cfgm-cocina)
@@ -25,6 +26,20 @@ Recopilamos prompts de [ChatGPT](https://chat.openai.com) útiles para distintos
 - [Oposiciones](general/oposiciones/prompts.md) — defensa programación, supuestos prácticos, simulación oral
 - [Técnicas de estudio](general/tecnicasdeestudio/prompts.md) — plan personalizado, memorización, preparación exámenes
 - [Orientación académica](general/orientacion/prompts.md) — itinerarios educativos, orientación profesional
+- [Formación en IA para docentes](general/formacion-ia/prompts.md) — prompts extraídos de las 6 charlas interactivas
+
+### Formación en IA para docentes — 6 charlas → 48 prompts
+
+Basado en el proyecto [Formación IA para Docentes](https://sergarb1.github.io/FormacionIADocentes) por Sergi García Barea (CC BY-SA 4.0). 130 diapositivas, 10-15 min cada charla.
+
+| # | Charla | Enlace | Prompts |
+|---|--------|--------|---------|
+| 🌱 | [ChatGPT, Gemini, Claude… para docentes](https://sergarb1.github.io/FormacionIADocentes/chatgpt-para-docentes.html) | → [Prompts](general/formacion-ia/chatbots-docentes/prompts.md) | 8 |
+| 🌿 | [Pensamiento crítico y detección de falacias con IA](https://sergarb1.github.io/FormacionIADocentes/pensamiento-critico.html) | → [Prompts](general/formacion-ia/pensamiento-critico/prompts.md) | 8 |
+| 🌿 | [Crear imágenes educativas con IA](https://sergarb1.github.io/FormacionIADocentes/crear-imagenes-educativas.html) | → [Prompts](general/formacion-ia/imagenes-educativas/prompts.md) | 8 |
+| 🌿 | [Infografías con IA + Canva Capas Mágicas](https://sergarb1.github.io/FormacionIADocentes/infografias-ia-canva.html) | → [Prompts](general/formacion-ia/infografias-canva/prompts.md) | 8 |
+| 🌳 | [NotebookLM de Google – Tutorial para docentes](https://sergarb1.github.io/FormacionIADocentes/note-booklm-google.html) | → [Prompts](general/formacion-ia/notebooklm/prompts.md) | 8 |
+| 🌳 | [Asistentes de código con IA para docentes](https://sergarb1.github.io/FormacionIADocentes/codigo-cli-ia.html) | → [Prompts](general/formacion-ia/codigo-cli/prompts.md) | 8 |
 
 ## ESO
 
